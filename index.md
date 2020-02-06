@@ -6,4 +6,4 @@ Coronaviruses are viruses in the subfamily Orthocoronavirinae in the family Coro
 
 The name "coronavirus" is derived from the Latin corona, meaning crown or halo, which refers to the characteristic appearance of the virus particles (virions): they have a fringe reminiscent of a royal crown or of the solar corona.
 
-[[https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/2019-nCoV-CDC-23312_without_background.png/1024px-2019-nCoV-CDC-23312_without_background.png]]
+[https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/2019-nCoV-CDC-23312_without_background.png/1024px-2019-nCoV-CDC-23312_without_background.png]
